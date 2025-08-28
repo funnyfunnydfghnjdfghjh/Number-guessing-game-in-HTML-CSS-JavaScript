@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+
+
+.item-div{
+    justify-content: center;
+    align-items: center;
+    display:grid;
+    padding:20px;
+    margin:15px
+}
+
+#button3{
+    justify-content: space-between;
+    border-radius: 15px;
+}
+
+#button3:hover{
+    
+    color:"gray";
+    background-color: darkgray;
+}
+
+.s-title{
+    text-align:center;
+}
